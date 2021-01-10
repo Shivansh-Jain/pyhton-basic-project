@@ -1,3 +1,7 @@
+#This is a program for a person who sits in front of a computer for hours, this program assumes that you work continuously from 9 am to 6 pm, this program is like a reminder program which reminds to drink water every 10 minutes (assuring that you drink approx. 3.5 liter of water during your working hours), it reminds you to relax your eye every 30 min (for better eye health), it also reminds you to do some physical activity every 45 minutes (so that you feel fresh every time), this program also keeps a record of your responses after every task so that you can evaluate them later. Before starting the program ask you whether you want to start it or not once started the program will automatically ends at 6 pm. 
+#note= If you want to run the program kindly change the music file path.
+ 
+
 import pygame
 
 def water():
